@@ -1,0 +1,4 @@
+/Users/tone_ayeee/Desktop/fullstackL4-main 2/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+/Users/tone_ayeee/Desktop/fullstackL4-main 2/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tone_ayeee/Documents/Level4Projects/fullstackL4-main 2/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+/Users/tone_ayeee/Documents/Level4Projects/fullstackL4-main 2/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
